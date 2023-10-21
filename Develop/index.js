@@ -36,11 +36,6 @@ const questions = [
             message: "Which technologies did you use?"
         },
         {
-            type: "input",
-            name: "languages",
-            message: "What programming languages did you use for this project?"
-        },
-        {
             type: "list",
             name: "license",
             message: "What type of license would you like?",
