@@ -2,11 +2,9 @@
 ![](Develop/images/Project-gif.gif)
 
   ## Description 🗒️
-```
-  A README file is an essential component of any software project, providing valuable information for developers, users, and collaborators. 
-  However, crafting a well-structured README can be time-consuming and error-prone. To simplify this task and ensure consistency, 
-  we can leverage the power of JavaScript to build a professional README generator.
- ```
+
+  > A README file is an essential component of any software project, providing valuable information for developers, users, and collaborators. However, crafting a well-structured README can be time-consuming and error-prone. To simplify this task and ensure consistency, we can leverage the power of JavaScript to build a professional README generator.
+
 
   ## Licenses 🪪
   ```
