@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   
   ## Installations 💻
   \`\`\`
-  ${data.dependencies}
+  ${data.install}
   \`\`\`
 
   ## How To Use ✍️
