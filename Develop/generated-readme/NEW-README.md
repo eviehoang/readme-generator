@@ -1,17 +1,18 @@
-# test
-  ![Github Badge](https://img.shields.io/badge/license-MIT?style=for-the-badge)
+# README Generator
+  ![Github Badge](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
   ## Description 🗒️
   ```
-  test
+  To generate README.MD Using a few questions.
   ```
 
   ## Licenses 🪪
   ```
   * [License](#license-📛)
+  ```
   ## License 📛 
     Copyright @ MIT. All rights reserved.
-  ```
+
   
   ## Installations 💻
   ```
@@ -20,12 +21,12 @@
 
   ## How To Use ✍️
   ```
-  test
+  On Vs.Code
   ```
 
   ## Technologies Used 🤖
   ```
-  test
+  Javascript
   ```
 
   ## Contributors 🤖
