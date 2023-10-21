@@ -28,7 +28,12 @@ const questions = [
         {
             type: "input",
             name: "use",
-            message: "How do you use this application?"
+            message: "How do you use this application? Is it on web, mobile, etc?"
+        },
+        {
+            type: "input",
+            name: "tech",
+            message: "Which technologies did you use?"
         },
         {
             type: "input",
