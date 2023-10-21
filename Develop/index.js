@@ -75,7 +75,7 @@ function init() {
     inquirer.prompt(questions)
         .then((answers) => {
             console.log("Generating README... please give me a moment!");
-            writeToFile("./generated-readme/NEW-README.md", markdown({ ...answers }));
+            writeToFile("./generated-readme/NEWREADME.md", markdown({ ...answers }));
         })
 }
 

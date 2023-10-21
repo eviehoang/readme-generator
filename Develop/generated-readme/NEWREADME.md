@@ -3,7 +3,7 @@
 
   ## Description 🗒️
   ```
-  To make a readme that is pretty.
+  To make a pretty readme.md
   ```
 
   ## Licenses 🪪
@@ -20,7 +20,7 @@
 
   ## How To Use ✍️
   ```
-  For use on VS Code.
+  VS. Code
   ```
 
   ## Technologies Used 🤖
@@ -30,7 +30,7 @@
 
   ## Contributors 🤖
   ```
-  Yes
+  Berkeley Bootcamp Team
   ```
 
 
