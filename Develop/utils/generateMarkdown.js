@@ -33,39 +33,39 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
-  ## Description 
+  ## Description 🗒️
   \`\`\`
   ${data.description}
   \`\`\`
 
-  ## Licenses
+  ## Licenses 🪪
   \`\`\`
   ${renderLicenseLink(data.license)}
   ${renderLicenseSection(data.license)}
   \`\`\`
   
-  ## Installations  
+  ## Installations 💻
   \`\`\`
   ${data.dependencies}
   \`\`\`
 
-  ## How To Use
+  ## How To Use ✍️
   \`\`\`
   ${data.use}
   \`\`\`
 
-  ## Technologies Used
+  ## Technologies Used 🤖
   \`\`\`
-  ${data.use}
-  \`\`\`
-
-  ## Contributors 
-  \`\`\`
-  😊 ${data.contributors}
+  ${data.tech}
   \`\`\`
 
+  ## Contributors 🤖
+  \`\`\`
+  ${data.contributors}
+  \`\`\`
 
-  ## Author Info
+
+  ## Author Info 🤸
   - GitHub: [${data.github}](https://github.com/${data.github}/)
   - Email:  ${data.email}
 `;
