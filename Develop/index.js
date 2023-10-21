@@ -58,13 +58,9 @@ const questions = [
         ]
     },
     {
-        type: "list",
+        type: "input",
         name: "contributors",
         message: "Where there any contributers on your project?",
-        choices: [
-            "Yes",
-            "No"
-        ]
     }
 ];
 
